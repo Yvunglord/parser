@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RRHL7YEmvCTkVjgWRWVAMFlgsC963Di33hOccrVClNUuUjbsqaMHHFDJ5wF4IWxLldAw3vOcl6pI686QaUUlCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\k_yak\\source\\repos\\Parsing\\Parsing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\k_yak\\.nuget\\packages\\anglesharp\\1.1.2\\anglesharp.1.1.2.nupkg.sha512",
+    "C:\\Users\\k_yak\\.nuget\\packages\\leaf.xnet\\5.2.10\\leaf.xnet.5.2.10.nupkg.sha512",
+    "C:\\Users\\k_yak\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
